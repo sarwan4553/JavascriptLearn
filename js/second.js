@@ -20,6 +20,7 @@
 // console.log(amount);
 // console.log(typeof age)
 
+
 // ==============string--------"", '', ``
 // let name = "reena";
 // var name2 = 'radha';
@@ -48,6 +49,43 @@
 // console.log(typeof a)
 // console.log(typeof b.name)
 // console.log(b.name)
+
+// array []
+/**--not working to array
+    // let fname="reena";
+    // let fname1="radha";
+    // let fname2="beena";
+    // let fname3="diksha";
+    // let fname4="nonu";
+ */
+// let familyName = ['reena', 'radha', 'beena', 'diksha', ['nonu', 'diksha']]
+// console.log(familyName)
+// console.log(familyName[1])
+// console.log("============================================")
+// for (let i = 0; i < familyName.length; i++) {
+//     console.log(familyName[i])
+// }
+
+// object {}
+// let familyNames = {
+//     parentName: 'kari das',
+//     childName: 'reena  radha beena',
+//     subchild: 'diksha nonu'
+// };
+// console.log(familyNames)
+// console.log(familyNames.childName)
+// console.log(familyNames.subchild)
+
+// funciton (){}
+// let num1 = Number(prompt("please enter your number 1", 10))
+// let num2 = Number(prompt("please enter your number 2", 20))
+
+// function sub(a, b) {
+//     return a + b;
+// }
+// console.log(sub(num1, num2))
+
+
 
 // function demo() {
 //     a = 10;
